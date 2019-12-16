@@ -11,6 +11,7 @@ public class FruitList {
         fruitList.add(data);
     }
 
+
     public void print() {
         for (String value : fruitList) {
             System.out.println(value);

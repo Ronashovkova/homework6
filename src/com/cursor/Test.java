@@ -3,6 +3,7 @@ package com.cursor;
 public class Test {
     public static void start(){
         System.out.println("Task 3");
+
         CommonElement commonElement = new CommonElement();
         commonElement.addInFirstList("cup");
         commonElement.addInFirstList("plate");

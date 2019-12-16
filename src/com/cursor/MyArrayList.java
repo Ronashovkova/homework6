@@ -25,5 +25,6 @@ public class MyArrayList {
             }
         }
         System.out.println("New list: " + list);
+
     }
 }

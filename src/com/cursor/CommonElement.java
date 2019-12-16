@@ -22,6 +22,7 @@ public class CommonElement {
         }
     }
 
+
     public void print2() {
         for (String value : elementList2) {
             System.out.println(value);
