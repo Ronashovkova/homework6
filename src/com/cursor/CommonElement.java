@@ -37,23 +37,7 @@ public class CommonElement {
         return elementList1;
     }
 
-    public void setElementList1(List<String> elementList1) {
-        this.elementList1 = elementList1;
-    }
-
     public List<String> getElementList2() {
         return elementList2;
-    }
-
-    public void setElementList2(List<String> elementList2) {
-        this.elementList2 = elementList2;
-    }
-
-    public List<String> getCommon() {
-        return common;
-    }
-
-    public void setCommon(List<String> common) {
-        this.common = common;
     }
 }
