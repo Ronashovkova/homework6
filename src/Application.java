@@ -1,7 +1,7 @@
-import com.cursor.Test;
+import com.cursor.AppExecutor;
 
 public class Application {
     public static void main(String[] args) {
-        Test.start();
+        AppExecutor.start();
     }
 }

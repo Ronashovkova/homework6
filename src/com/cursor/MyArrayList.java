@@ -6,7 +6,7 @@ import java.util.List;
 
 public class MyArrayList {
 
-    List<Integer> list = new ArrayList<>();
+    private List<Integer> list = new ArrayList<>();
 
     public void add(Integer data) {
         list.add(data);

@@ -5,12 +5,11 @@ import java.util.List;
 
 public class FruitList {
 
-    List<String> fruitList = new ArrayList<>();
+    private List<String> fruitList = new ArrayList<>();
 
     public void add(String data) {
         fruitList.add(data);
     }
-
 
     public void print() {
         for (String value : fruitList) {
